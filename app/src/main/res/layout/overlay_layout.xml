@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlOverlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <ImageView
+        android:id="@+id/ivStartIcon"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ant_start" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivStartIcon"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvHighScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="HIGH SCORE: 0"
+            android:textAlignment="center"
+            android:textColor="#FFF"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvTimeUsed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Time used: 00:00:00"
+            android:textAlignment="center"
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivExitButton"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="25dp"
+        android:background="@drawable/btn_normal_bg"
+        android:padding="10dp"
+        android:src="@drawable/ic_power" />
+
+    <ImageView
+        android:id="@+id/ivSoundControl"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="25dp"
+        android:background="@drawable/btn_normal_bg"
+        android:padding="10dp"
+        android:src="@drawable/ic_sound_on" />
+
+    <ImageView
+        android:id="@+id/ivShare"
+        android:layout_alignParentEnd="true"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="25dp"
+        android:padding="0dp"
+        android:src="@drawable/ic_share_facebook" />
+</RelativeLayout>
