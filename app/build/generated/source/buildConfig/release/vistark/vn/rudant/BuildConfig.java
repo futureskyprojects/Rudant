@@ -8,6 +8,6 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "vistark.vn.rudant";
   public static final String BUILD_TYPE = "release";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 19111460;
-  public static final String VERSION_NAME = "19.11.14.60";
+  public static final int VERSION_CODE = 19111461;
+  public static final String VERSION_NAME = "19.11.14.61";
 }

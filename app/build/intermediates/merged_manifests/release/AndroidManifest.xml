@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="vistark.vn.rudant"
-    android:versionCode="19111460"
-    android:versionName="19.11.14.60" >
+    android:versionCode="19111461"
+    android:versionName="19.11.14.61" >
 
     <uses-sdk
         android:minSdkVersion="18"
@@ -24,6 +24,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
+        <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="603090039979-fbcapp2a166pc4djrenco3dqu4klq58c.apps.googleusercontent.com" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-1930494588356648~1849132470" />
@@ -49,10 +55,6 @@
             android:authorities="vistark.vn.rudant.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>

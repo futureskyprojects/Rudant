@@ -688,32 +688,34 @@ class MainActivity : AppCompatActivity() {
 
     private fun gameVisible() {
         if (isPressStartButton) {
-            showReplay()
+            if (isCanPlayMusic) {
+                if (isGamePlaying) {
+                    startBackgroundMusic()
+                    updateScore()
+                } else {
+                    showReplay()
+                }
+            }
         } else {
             if (!gameIntroMusic.isPlaying && isCanPlayMusic)
                 gameIntroMusic.start()
         }
     }
 
-    private fun gameInvisible() {
-        if (isPressStartButton && isStarted) {
-            endGame()
-            clearGame()
-        } else {
-            if (gameIntroMusic.isPlaying) {
-                gameIntroMusic.pause()
-            }
-            gameIntroMusic.seekTo(0)
-        }
-    }
 
     override fun onPause() {
-        gameInvisible()
+        muteAllMusic()
+        if (gameSoundJoke.isPlaying) {
+            gameSoundJoke.pause()
+        }
         super.onPause()
     }
 
     override fun onStop() {
-        gameInvisible()
+        muteAllMusic()
+        if (gameSoundJoke.isPlaying) {
+            gameSoundJoke.pause()
+        }
         super.onStop()
     }
 

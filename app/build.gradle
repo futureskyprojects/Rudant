@@ -11,8 +11,9 @@ android {
         applicationId "vistark.vn.rudant"
         minSdkVersion 18
         targetSdkVersion 29
-        versionCode 19111460
-        versionName "19.11.14.60"
+        versionCode 19111461
+        versionName "19.11.14.61"
+        setProperty("archivesBaseName", "$rootProject.name-$versionName")
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

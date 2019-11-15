@@ -88,12 +88,12 @@
         "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\b881656fa28c688c5a8bc6f423d0097f\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_page.xml"
     },
     {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\color_abc_background_cache_hint_selector_material_light.xml.flat",
@@ -124,12 +124,12 @@
         "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_power.png"
     },
     {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
-        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_tap.png.flat",
         "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_tap.png"
+    },
+    {
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -156,40 +156,40 @@
         "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_sound_on.png.flat",
-        "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_sound_on.png"
-    },
-    {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_sound_on.png.flat",
+        "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_sound_on.png"
     },
     {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_share_facebook.png.flat",
         "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_share_facebook.png"
+    },
+    {
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_cascading_menu_item_layout.xml.flat",
@@ -216,12 +216,12 @@
         "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
-        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
         "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Vistark\\.gradle\\caches\\transforms-2\\files-2.1\\31016c6c0856b517b84ecfbcfb815ff0\\appcompat-1.1.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "F:\\Freelancer\\MyCode\\KillOneAnt\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\31016c6c0856b517b84ecfbcfb815ff0\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\1a48618d6c5819b93f43ddd9a04c22dd\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -45,20 +45,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vistark\.gradle\
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\36046ff8fe6f6deaa96866bb67f58a2c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\3adfdbbdc85560396be263737753f758\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\d9c06f4527d8ff0f7b18279fa7b161c8\play-services-ads-base-18.3.0\AndroidManifest.xml:2:1-9:12
-INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:2:11-69
@@ -91,7 +91,7 @@ ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:11:5
 	android:name
 		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:11:22-77
 application
-ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:13:5-33:19
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:13:5-37:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\b463d38b504dfb9917fedd23b2c74ef6\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
@@ -128,28 +128,42 @@ MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] C:\Users\Vist
 		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:19:9-40
 	android:usesCleartextTraffic
 		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:20:9-44
-meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:21:9-23:69
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:21:9-22:104
 	android:value
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:23:13-67
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:22:13-101
 	android:name
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:22:13-69
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:21:20-70
+meta-data#com.google.android.gms.version
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:23:9-24:68
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\897aeb797ed3988c6735bcbe0a8dca03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\897aeb797ed3988c6735bcbe0a8dca03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:24:13-66
+	android:name
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:23:20-65
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:25:9-27:69
+	android:value
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:27:13-67
+	android:name
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:26:13-69
 activity#vistark.vn.rudant.MainActivity
-ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:24:9-32:20
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:28:9-36:20
 	android:screenOrientation
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:25:13-58
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:29:13-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml:34:27-74
 uses-sdk
 INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Freelancer\MyCode\KillOneAnt\app\src\main\AndroidManifest.xml
@@ -272,9 +286,3 @@ uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\4338776e19a56f6b6568a50d986aa758\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:5-68
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\4338776e19a56f6b6568a50d986aa758\play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:22-65
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\897aeb797ed3988c6735bcbe0a8dca03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\897aeb797ed3988c6735bcbe0a8dca03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vistark\.gradle\caches\transforms-2\files-2.1\897aeb797ed3988c6735bcbe0a8dca03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

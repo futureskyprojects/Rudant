@@ -1026,8 +1026,12 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string achievement_rudant_hunter_1
+string app_id
 string app_name
 string common_google_play_services_unknown_issue
+string leaderboard_top_high_score
+string package_name
 string s1
 string s2
 string s3

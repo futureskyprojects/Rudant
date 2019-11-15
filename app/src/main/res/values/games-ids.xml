@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">603090039979</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">vistark.vn.rudant</string>
+    <!-- achievement Rudant Hunter +1 -->
+    <string name="achievement_rudant_hunter_1" translatable="false">CgkIq-ne18YREAIQAg</string>
+    <!-- leaderboard Top High Score -->
+    <string name="leaderboard_top_high_score" translatable="false">CgkIq-ne18YREAIQAQ</string>
+</resources>
